@@ -49,6 +49,13 @@
     margin-top: 20px;
     margin-bottom: 20px;
 }
+.no-style{
+    border: none;
+    background: none;
+    color: #FF6E40;
+    font-weight: 600;
+    text-decoration: underline;
+}
 .or-devider{
     background: #fff;
     font-size: 22px;
@@ -75,6 +82,7 @@
     display: grid;
     grid-template-columns: 50px 1fr;
     margin-bottom: 15px;
+    background: #fff;
 }
 .social-login img{
     width: 30px;

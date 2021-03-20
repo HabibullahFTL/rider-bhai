@@ -18,10 +18,11 @@ export const UserContext = createContext();
 function App() {
   const [loginUserDetails, setLoginUserDetails] = useState({
     isSignIn: false,
-    name: 'kk',
+    name: '',
     email: '',
     photo: '',
-    uid: null
+    uid: null,
+    errMessage: ''
   });
   return (
     <UserContext.Provider value={[loginUserDetails, setLoginUserDetails]}>
