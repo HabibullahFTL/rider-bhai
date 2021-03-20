@@ -1,0 +1,23 @@
+.destination-bg{
+    background-color: #FF6E40;
+    padding: 15px;
+    border-radius: 15px;
+    color: #fff;
+}
+.ticket{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    width: 90%;
+    margin: auto;
+    border-bottom: 1px solid #ddd;
+}
+.ticket img{
+    height: 50px;
+}
+.ticket-details{
+    display: flex;
+    align-items: center;
+    height: 50px;
+    margin-left: 20px;
+    justify-content: space-around;
+}
