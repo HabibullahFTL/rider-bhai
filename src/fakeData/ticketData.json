@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "methodName": "bike",
+        "cost":60,
+        "icon": "https://firebasestorage.googleapis.com/v0/b/rider-bhai.appspot.com/o/app-img%2Fbike.svg?alt=media&token=b08f6cb9-24d2-4db5-a0bc-21a176e77af0"
+    },
+    {
+        "id":2,
+        "methodName": "bike",
+        "cost":72,
+        "icon": "https://firebasestorage.googleapis.com/v0/b/rider-bhai.appspot.com/o/app-img%2Fbike.svg?alt=media&token=b08f6cb9-24d2-4db5-a0bc-21a176e77af0"
+    },
+    {
+        "id":3,
+        "methodName": "bike",
+        "cost":80,
+        "icon": "https://firebasestorage.googleapis.com/v0/b/rider-bhai.appspot.com/o/app-img%2Fbike.svg?alt=media&token=b08f6cb9-24d2-4db5-a0bc-21a176e77af0"
+    },
+    {
+        "id":4,
+        "methodName": "car",
+        "cost":80,
+        "icon": "https://firebasestorage.googleapis.com/v0/b/rider-bhai.appspot.com/o/app-img%2Fsports-car.svg?alt=media&token=aa7a5507-fc3d-473a-8585-5d215958ae77"
+    },
+    {
+        "id":5,
+        "methodName": "car",
+        "cost":90,
+        "icon": "https://firebasestorage.googleapis.com/v0/b/rider-bhai.appspot.com/o/app-img%2Fsports-car.svg?alt=media&token=aa7a5507-fc3d-473a-8585-5d215958ae77"
+    },
+    {
+        "id":6,
+        "methodName": "car",
+        "cost":100,
+        "icon": "https://firebasestorage.googleapis.com/v0/b/rider-bhai.appspot.com/o/app-img%2Fsports-car.svg?alt=media&token=aa7a5507-fc3d-473a-8585-5d215958ae77"
+    },
+    {
+        "id":7,
+        "methodName": "bus",
+        "cost":45,
+        "icon": "https://firebasestorage.googleapis.com/v0/b/rider-bhai.appspot.com/o/app-img%2Fbus.svg?alt=media&token=5bb42b93-d3a7-4bef-85c8-9c559c2658bf"
+    },
+    {
+        "id":8,
+        "methodName": "bus",
+        "cost":53,
+        "icon": "https://firebasestorage.googleapis.com/v0/b/rider-bhai.appspot.com/o/app-img%2Fbus.svg?alt=media&token=5bb42b93-d3a7-4bef-85c8-9c559c2658bf"
+    },
+    {
+        "id":9,
+        "methodName": "bus",
+        "cost":60,
+        "icon": "https://firebasestorage.googleapis.com/v0/b/rider-bhai.appspot.com/o/app-img%2Fbus.svg?alt=media&token=5bb42b93-d3a7-4bef-85c8-9c559c2658bf"
+    },
+    {
+        "id":10,
+        "methodName": "rail",
+        "cost":35,
+        "icon": "https://firebasestorage.googleapis.com/v0/b/rider-bhai.appspot.com/o/app-img%2Frail.svg?alt=media&token=434941d7-04d0-4225-95f7-b386af54ad31"
+    },
+    {
+        "id":11,
+        "methodName": "rail",
+        "cost":43,
+        "icon": "https://firebasestorage.googleapis.com/v0/b/rider-bhai.appspot.com/o/app-img%2Frail.svg?alt=media&token=434941d7-04d0-4225-95f7-b386af54ad31"
+    },
+    {
+        "id":12,
+        "methodName": "rail",
+        "cost":49,
+        "icon": "https://firebasestorage.googleapis.com/v0/b/rider-bhai.appspot.com/o/app-img%2Frail.svg?alt=media&token=434941d7-04d0-4225-95f7-b386af54ad31"
+    }
+]

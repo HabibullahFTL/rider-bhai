@@ -1,8 +1,9 @@
 import React, { useContext } from 'react';
 import { Redirect, Route } from 'react-router';
+import { UserContext } from '../../App';
 
 const PrivateRoute = ({children,...rest}) => {
-    const [loginUserDetails, setLoginUserDetails] = useContext();
+    const [loginUserDetails, setLoginUserDetails] = useContext(UserContext);
     return (
         <Route
       {...rest}
